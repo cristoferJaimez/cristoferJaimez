@@ -3,3 +3,12 @@
 | Columna 1 | Columna 2 | Columna 3 |
 | --------- | --------- | --------- |
 | ![Imagen 1](URL-de-la-imagen-1) | ![Imagen 2](URL-de-la-imagen-2) | ![Imagen 3](URL-de-la-imagen-3) |
+
+
+<style>
+.column {
+  display: flex;
+  justify-content: center;
+}
+</style>
+```
