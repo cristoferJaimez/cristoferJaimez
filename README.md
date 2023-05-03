@@ -1,4 +1,4 @@
-![Texto alternativo de la imagen](https://media3.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif?cid=ecf05e474ywju08mskmtgcmo5f1onkzyiik58orf0bbgdqx6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Texto alternativo de la imagen](https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e472e93sr0r24h1nwrpe9gas2hfusg5l79xoe5bvhe2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 | BackEnd | FrontEnd | Services |
