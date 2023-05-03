@@ -1,29 +1,5 @@
 ![Texto alternativo de la imagen](https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only)
-```
 
-# Título del proyecto
-
-Breve descripción del proyecto.
-
-## Tabla de contenidos
-
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-
-## Instalación
-
-Explicación detallada de cómo instalar y configurar el proyecto.
-
-## Uso
-
-Instrucciones sobre cómo utilizar el proyecto y sus características.
-
-## Contribución
-
-Explicación sobre cómo contribuir al proyecto y las pautas para hacerlo.
-
-## Licencia
-
-Explicación sobre la licencia del proyecto y los términos de uso.
+| Columna 1 | Columna 2 | Columna 3 |
+| --------- | --------- | --------- |
+| ![Imagen 1](URL-de-la-imagen-1) | ![Imagen 2](URL-de-la-imagen-2) | ![Imagen 3](URL-de-la-imagen-3) |
