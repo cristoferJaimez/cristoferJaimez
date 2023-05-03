@@ -1,3 +1,6 @@
+![Texto alternativo de la imagen](https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only)
+```
+
 # Título del proyecto
 
 Breve descripción del proyecto.
