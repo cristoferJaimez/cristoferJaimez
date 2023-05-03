@@ -1,4 +1,4 @@
-![Texto alternativo de la imagen](https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only)
+![Texto alternativo de la imagen](https://giphy.com/embed/du3J3cXyzhj75IOgvA)
 
 | BackEnd | FrontEnd | Services |
 | --------- | --------- | --------- |
